@@ -1,0 +1,22 @@
+/* index.html */
+
+.p {
+    background-color: rgb(255, 170, 193);
+    font-family: "DejaVu Sans", sans-serif;
+} 
+
+.lol {
+    font-size: 24px;
+    font-family: Verdana, sans-serif;
+}
+
+#two {
+    color: rgb(23, 23, 241);
+    font-size: 36px;
+}
+
+#three {
+    background-color: rgb(118, 250, 118);
+    font-size: 24px;
+    font-weight: bold;
+}
